@@ -7,6 +7,10 @@
 		{
 			"Name": "JSONQuery",
 			"Enabled": true
+		},
+		{
+			"Name": "AndroidDeviceProfileSelector",
+			"Enabled": false
 		}
 	]
 }
