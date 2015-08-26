@@ -1,0 +1,716 @@
+Begin Object Class=SoundCue Name="CannonShot_Stereo_Cue"
+   Begin Object Class=SoundCueGraph Name="SoundCueGraph_0"
+      Begin Object Class=SoundCueGraphNode Name="SoundCueGraphNode_0"
+         Begin Object Class=EdGraphPin Name="EdGraphPin_12438"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_12439"
+         End Object
+      End Object
+      Begin Object Class=SoundCueGraphNode Name="SoundCueGraphNode_1"
+         Begin Object Class=EdGraphPin Name="EdGraphPin_12442"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_12443"
+         End Object
+      End Object
+      Begin Object Class=SoundCueGraphNode Name="SoundCueGraphNode_14"
+         Begin Object Class=EdGraphPin Name="EdGraphPin_12425"
+         End Object
+      End Object
+      Begin Object Class=SoundCueGraphNode Name="SoundCueGraphNode_15"
+         Begin Object Class=EdGraphPin Name="EdGraphPin_12426"
+         End Object
+      End Object
+      Begin Object Class=SoundCueGraphNode Name="SoundCueGraphNode_16"
+         Begin Object Class=EdGraphPin Name="EdGraphPin_12427"
+         End Object
+      End Object
+      Begin Object Class=SoundCueGraphNode Name="SoundCueGraphNode_17"
+         Begin Object Class=EdGraphPin Name="EdGraphPin_12428"
+         End Object
+      End Object
+      Begin Object Class=SoundCueGraphNode Name="SoundCueGraphNode_18"
+         Begin Object Class=EdGraphPin Name="EdGraphPin_12429"
+         End Object
+      End Object
+      Begin Object Class=SoundCueGraphNode Name="SoundCueGraphNode_19"
+         Begin Object Class=EdGraphPin Name="EdGraphPin_12430"
+         End Object
+      End Object
+      Begin Object Class=SoundCueGraphNode Name="SoundCueGraphNode_20"
+         Begin Object Class=EdGraphPin Name="EdGraphPin_12431"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_12432"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_12433"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_12434"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_12435"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_12436"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_12437"
+         End Object
+      End Object
+      Begin Object Class=SoundCueGraphNode Name="SoundCueGraphNode_45"
+         Begin Object Class=EdGraphPin Name="EdGraphPin_12499"
+         End Object
+      End Object
+      Begin Object Class=SoundCueGraphNode Name="SoundCueGraphNode_46"
+         Begin Object Class=EdGraphPin Name="EdGraphPin_12500"
+         End Object
+      End Object
+      Begin Object Class=SoundCueGraphNode Name="SoundCueGraphNode_47"
+         Begin Object Class=EdGraphPin Name="EdGraphPin_12501"
+         End Object
+      End Object
+      Begin Object Class=SoundCueGraphNode Name="SoundCueGraphNode_48"
+         Begin Object Class=EdGraphPin Name="EdGraphPin_12502"
+         End Object
+      End Object
+      Begin Object Class=SoundCueGraphNode Name="SoundCueGraphNode_49"
+         Begin Object Class=EdGraphPin Name="EdGraphPin_12503"
+         End Object
+      End Object
+      Begin Object Class=SoundCueGraphNode Name="SoundCueGraphNode_50"
+         Begin Object Class=EdGraphPin Name="EdGraphPin_12504"
+         End Object
+      End Object
+      Begin Object Class=SoundCueGraphNode Name="SoundCueGraphNode_51"
+         Begin Object Class=EdGraphPin Name="EdGraphPin_12505"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_12506"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_12507"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_12508"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_12509"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_12510"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_12511"
+         End Object
+      End Object
+      Begin Object Class=SoundCueGraphNode Name="SoundCueGraphNode_52"
+         Begin Object Class=EdGraphPin Name="EdGraphPin_12512"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_12513"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_12514"
+         End Object
+      End Object
+      Begin Object Class=SoundCueGraphNode Name="SoundCueGraphNode_53"
+         Begin Object Class=EdGraphPin Name="EdGraphPin_12515"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_12516"
+         End Object
+      End Object
+      Begin Object Class=SoundCueGraphNode Name="SoundCueGraphNode_7"
+         Begin Object Class=EdGraphPin Name="EdGraphPin_12578"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_12579"
+         End Object
+      End Object
+      Begin Object Class=SoundCueGraphNode Name="SoundCueGraphNode_8"
+         Begin Object Class=EdGraphPin Name="EdGraphPin_13008"
+         End Object
+         Begin Object Class=EdGraphPin Name="EdGraphPin_13009"
+         End Object
+      End Object
+      Begin Object Class=SoundCueGraphNode_Root Name="SoundCueGraphNode_Root_0"
+         Begin Object Class=EdGraphPin Name="EdGraphPin_12398"
+         End Object
+      End Object
+   End Object
+   Begin Object Class=SoundNodeAttenuation Name="SoundNodeAttenuation_1"
+   End Object
+   Begin Object Class=SoundNodeAttenuation Name="SoundNodeAttenuation_2"
+   End Object
+   Begin Object Class=SoundNodeDelay Name="SoundNodeDelay_0"
+   End Object
+   Begin Object Class=SoundNodeMixer Name="SoundNodeMixer_0"
+   End Object
+   Begin Object Class=SoundNodeModulator Name="SoundNodeModulator_1"
+   End Object
+   Begin Object Class=SoundNodeModulator Name="SoundNodeModulator_2"
+   End Object
+   Begin Object Class=SoundNodeRandom Name="SoundNodeRandom_1"
+   End Object
+   Begin Object Class=SoundNodeRandom Name="SoundNodeRandom_5"
+   End Object
+   Begin Object Class=SoundNodeWavePlayer Name="SoundNodeWavePlayer_13"
+   End Object
+   Begin Object Class=SoundNodeWavePlayer Name="SoundNodeWavePlayer_14"
+   End Object
+   Begin Object Class=SoundNodeWavePlayer Name="SoundNodeWavePlayer_15"
+   End Object
+   Begin Object Class=SoundNodeWavePlayer Name="SoundNodeWavePlayer_16"
+   End Object
+   Begin Object Class=SoundNodeWavePlayer Name="SoundNodeWavePlayer_17"
+   End Object
+   Begin Object Class=SoundNodeWavePlayer Name="SoundNodeWavePlayer_18"
+   End Object
+   Begin Object Class=SoundNodeWavePlayer Name="SoundNodeWavePlayer_38"
+   End Object
+   Begin Object Class=SoundNodeWavePlayer Name="SoundNodeWavePlayer_39"
+   End Object
+   Begin Object Class=SoundNodeWavePlayer Name="SoundNodeWavePlayer_40"
+   End Object
+   Begin Object Class=SoundNodeWavePlayer Name="SoundNodeWavePlayer_41"
+   End Object
+   Begin Object Class=SoundNodeWavePlayer Name="SoundNodeWavePlayer_42"
+   End Object
+   Begin Object Class=SoundNodeWavePlayer Name="SoundNodeWavePlayer_43"
+   End Object
+   Begin Object Name="SoundCueGraph_0"
+      Begin Object Name="SoundCueGraphNode_0"
+         Begin Object Name="EdGraphPin_12438"
+            PinName="Input"
+            PinFriendlyName=" "
+            PinType=(PinCategory="SoundNode")
+            LinkedTo(0)=EdGraphPin'CannonShot_Stereo_Cue:SoundCueGraph_0.SoundCueGraphNode_20.EdGraphPin_12431'
+         End Object
+         Begin Object Name="EdGraphPin_12439"
+            PinName="Output"
+            Direction=EGPD_Output
+            PinType=(PinCategory="SoundNode")
+            LinkedTo(0)=EdGraphPin'CannonShot_Stereo_Cue:SoundCueGraph_0.SoundCueGraphNode_1.EdGraphPin_12442'
+         End Object
+         SoundNode=SoundNodeModulator'CannonShot_Stereo_Cue:SoundNodeModulator_1'
+         Pins(0)=EdGraphPin'EdGraphPin_12438'
+         Pins(1)=EdGraphPin'EdGraphPin_12439'
+         NodePosX=-96
+         NodePosY=-144
+         NodeGuid=36C0F3CB4865C8EC2E233B9F48D50542
+      End Object
+      Begin Object Name="SoundCueGraphNode_1"
+         Begin Object Name="EdGraphPin_12442"
+            PinName="Input"
+            PinFriendlyName=" "
+            PinType=(PinCategory="SoundNode")
+            LinkedTo(0)=EdGraphPin'CannonShot_Stereo_Cue:SoundCueGraph_0.SoundCueGraphNode_0.EdGraphPin_12439'
+         End Object
+         Begin Object Name="EdGraphPin_12443"
+            PinName="Output"
+            Direction=EGPD_Output
+            PinType=(PinCategory="SoundNode")
+            LinkedTo(0)=EdGraphPin'CannonShot_Stereo_Cue:SoundCueGraph_0.SoundCueGraphNode_52.EdGraphPin_12513'
+         End Object
+         SoundNode=SoundNodeAttenuation'CannonShot_Stereo_Cue:SoundNodeAttenuation_1'
+         Pins(0)=EdGraphPin'EdGraphPin_12442'
+         Pins(1)=EdGraphPin'EdGraphPin_12443'
+         NodePosX=48
+         NodePosY=-144
+         NodeGuid=DA7725C749661C257C8C22BC9CDBC76D
+      End Object
+      Begin Object Name="SoundCueGraphNode_14"
+         Begin Object Name="EdGraphPin_12425"
+            PinName="Output"
+            Direction=EGPD_Output
+            PinType=(PinCategory="SoundNode")
+            LinkedTo(0)=EdGraphPin'CannonShot_Stereo_Cue:SoundCueGraph_0.SoundCueGraphNode_20.EdGraphPin_12432'
+         End Object
+         SoundNode=SoundNodeWavePlayer'CannonShot_Stereo_Cue:SoundNodeWavePlayer_13'
+         Pins(0)=EdGraphPin'EdGraphPin_12425'
+         NodePosX=-672
+         NodePosY=-263
+         NodeGuid=6F0F01E743CB4ECB8601C8BEC473778D
+      End Object
+      Begin Object Name="SoundCueGraphNode_15"
+         Begin Object Name="EdGraphPin_12426"
+            PinName="Output"
+            Direction=EGPD_Output
+            PinType=(PinCategory="SoundNode")
+            LinkedTo(0)=EdGraphPin'CannonShot_Stereo_Cue:SoundCueGraph_0.SoundCueGraphNode_20.EdGraphPin_12433'
+         End Object
+         SoundNode=SoundNodeWavePlayer'CannonShot_Stereo_Cue:SoundNodeWavePlayer_14'
+         Pins(0)=EdGraphPin'EdGraphPin_12426'
+         NodePosX=-672
+         NodePosY=-193
+         NodeGuid=0A5637F840F684E537CFF9896006074C
+      End Object
+      Begin Object Name="SoundCueGraphNode_16"
+         Begin Object Name="EdGraphPin_12427"
+            PinName="Output"
+            Direction=EGPD_Output
+            PinType=(PinCategory="SoundNode")
+            LinkedTo(0)=EdGraphPin'CannonShot_Stereo_Cue:SoundCueGraph_0.SoundCueGraphNode_20.EdGraphPin_12434'
+         End Object
+         SoundNode=SoundNodeWavePlayer'CannonShot_Stereo_Cue:SoundNodeWavePlayer_15'
+         Pins(0)=EdGraphPin'EdGraphPin_12427'
+         NodePosX=-672
+         NodePosY=-123
+         NodeGuid=EE6570B04C1F2EF4E1299E888B473742
+      End Object
+      Begin Object Name="SoundCueGraphNode_17"
+         Begin Object Name="EdGraphPin_12428"
+            PinName="Output"
+            Direction=EGPD_Output
+            PinType=(PinCategory="SoundNode")
+            LinkedTo(0)=EdGraphPin'CannonShot_Stereo_Cue:SoundCueGraph_0.SoundCueGraphNode_20.EdGraphPin_12435'
+         End Object
+         SoundNode=SoundNodeWavePlayer'CannonShot_Stereo_Cue:SoundNodeWavePlayer_16'
+         Pins(0)=EdGraphPin'EdGraphPin_12428'
+         NodePosX=-672
+         NodePosY=-53
+         NodeGuid=0EEB8AB44CCC83B7954BA99617D3B182
+      End Object
+      Begin Object Name="SoundCueGraphNode_18"
+         Begin Object Name="EdGraphPin_12429"
+            PinName="Output"
+            Direction=EGPD_Output
+            PinType=(PinCategory="SoundNode")
+            LinkedTo(0)=EdGraphPin'CannonShot_Stereo_Cue:SoundCueGraph_0.SoundCueGraphNode_20.EdGraphPin_12436'
+         End Object
+         SoundNode=SoundNodeWavePlayer'CannonShot_Stereo_Cue:SoundNodeWavePlayer_17'
+         Pins(0)=EdGraphPin'EdGraphPin_12429'
+         NodePosX=-672
+         NodePosY=16
+         NodeGuid=F010C4B2408E76C779818CB105615A98
+      End Object
+      Begin Object Name="SoundCueGraphNode_19"
+         Begin Object Name="EdGraphPin_12430"
+            PinName="Output"
+            Direction=EGPD_Output
+            PinType=(PinCategory="SoundNode")
+            LinkedTo(0)=EdGraphPin'CannonShot_Stereo_Cue:SoundCueGraph_0.SoundCueGraphNode_20.EdGraphPin_12437'
+         End Object
+         SoundNode=SoundNodeWavePlayer'CannonShot_Stereo_Cue:SoundNodeWavePlayer_18'
+         Pins(0)=EdGraphPin'EdGraphPin_12430'
+         NodePosX=-672
+         NodePosY=86
+         NodeGuid=CBE0F4124D44EC147B604E855682A8E9
+      End Object
+      Begin Object Name="SoundCueGraphNode_20"
+         Begin Object Name="EdGraphPin_12431"
+            PinName="Output"
+            Direction=EGPD_Output
+            PinType=(PinCategory="SoundNode")
+            LinkedTo(0)=EdGraphPin'CannonShot_Stereo_Cue:SoundCueGraph_0.SoundCueGraphNode_0.EdGraphPin_12438'
+         End Object
+         Begin Object Name="EdGraphPin_12432"
+            PinName="Input"
+            PinFriendlyName=" "
+            PinType=(PinCategory="SoundNode")
+            LinkedTo(0)=EdGraphPin'CannonShot_Stereo_Cue:SoundCueGraph_0.SoundCueGraphNode_14.EdGraphPin_12425'
+         End Object
+         Begin Object Name="EdGraphPin_12433"
+            PinName="Input2"
+            PinFriendlyName=" "
+            PinType=(PinCategory="SoundNode")
+            LinkedTo(0)=EdGraphPin'CannonShot_Stereo_Cue:SoundCueGraph_0.SoundCueGraphNode_15.EdGraphPin_12426'
+         End Object
+         Begin Object Name="EdGraphPin_12434"
+            PinName="Input3"
+            PinFriendlyName=" "
+            PinType=(PinCategory="SoundNode")
+            LinkedTo(0)=EdGraphPin'CannonShot_Stereo_Cue:SoundCueGraph_0.SoundCueGraphNode_16.EdGraphPin_12427'
+         End Object
+         Begin Object Name="EdGraphPin_12435"
+            PinName="Input4"
+            PinFriendlyName=" "
+            PinType=(PinCategory="SoundNode")
+            LinkedTo(0)=EdGraphPin'CannonShot_Stereo_Cue:SoundCueGraph_0.SoundCueGraphNode_17.EdGraphPin_12428'
+         End Object
+         Begin Object Name="EdGraphPin_12436"
+            PinName="Input5"
+            PinFriendlyName=" "
+            PinType=(PinCategory="SoundNode")
+            LinkedTo(0)=EdGraphPin'CannonShot_Stereo_Cue:SoundCueGraph_0.SoundCueGraphNode_18.EdGraphPin_12429'
+         End Object
+         Begin Object Name="EdGraphPin_12437"
+            PinName="Input6"
+            PinFriendlyName=" "
+            PinType=(PinCategory="SoundNode")
+            LinkedTo(0)=EdGraphPin'CannonShot_Stereo_Cue:SoundCueGraph_0.SoundCueGraphNode_19.EdGraphPin_12430'
+         End Object
+         SoundNode=SoundNodeRandom'CannonShot_Stereo_Cue:SoundNodeRandom_1'
+         Pins(0)=EdGraphPin'EdGraphPin_12431'
+         Pins(1)=EdGraphPin'EdGraphPin_12432'
+         Pins(2)=EdGraphPin'EdGraphPin_12433'
+         Pins(3)=EdGraphPin'EdGraphPin_12434'
+         Pins(4)=EdGraphPin'EdGraphPin_12435'
+         Pins(5)=EdGraphPin'EdGraphPin_12436'
+         Pins(6)=EdGraphPin'EdGraphPin_12437'
+         NodePosX=-368
+         NodePosY=-144
+         NodeGuid=2EE959C94E9C00487D0C37B148240A08
+      End Object
+      Begin Object Name="SoundCueGraphNode_45"
+         Begin Object Name="EdGraphPin_12499"
+            PinName="Output"
+            Direction=EGPD_Output
+            PinType=(PinCategory="SoundNode")
+            LinkedTo(0)=EdGraphPin'CannonShot_Stereo_Cue:SoundCueGraph_0.SoundCueGraphNode_51.EdGraphPin_12506'
+         End Object
+         SoundNode=SoundNodeWavePlayer'CannonShot_Stereo_Cue:SoundNodeWavePlayer_38'
+         Pins(0)=EdGraphPin'EdGraphPin_12499'
+         NodePosX=-672
+         NodePosY=160
+         NodeGuid=65037A2C4001157E7B7EC89DC4A71587
+      End Object
+      Begin Object Name="SoundCueGraphNode_46"
+         Begin Object Name="EdGraphPin_12500"
+            PinName="Output"
+            Direction=EGPD_Output
+            PinType=(PinCategory="SoundNode")
+            LinkedTo(0)=EdGraphPin'CannonShot_Stereo_Cue:SoundCueGraph_0.SoundCueGraphNode_51.EdGraphPin_12507'
+         End Object
+         SoundNode=SoundNodeWavePlayer'CannonShot_Stereo_Cue:SoundNodeWavePlayer_39'
+         Pins(0)=EdGraphPin'EdGraphPin_12500'
+         NodePosX=-672
+         NodePosY=230
+         NodeGuid=3013313244A793ED9F549197F076B8E5
+      End Object
+      Begin Object Name="SoundCueGraphNode_47"
+         Begin Object Name="EdGraphPin_12501"
+            PinName="Output"
+            Direction=EGPD_Output
+            PinType=(PinCategory="SoundNode")
+            LinkedTo(0)=EdGraphPin'CannonShot_Stereo_Cue:SoundCueGraph_0.SoundCueGraphNode_51.EdGraphPin_12508'
+         End Object
+         SoundNode=SoundNodeWavePlayer'CannonShot_Stereo_Cue:SoundNodeWavePlayer_40'
+         Pins(0)=EdGraphPin'EdGraphPin_12501'
+         NodePosX=-672
+         NodePosY=300
+         NodeGuid=69F48CBF4DC61B40F42E6BBB5494A047
+      End Object
+      Begin Object Name="SoundCueGraphNode_48"
+         Begin Object Name="EdGraphPin_12502"
+            PinName="Output"
+            Direction=EGPD_Output
+            PinType=(PinCategory="SoundNode")
+            LinkedTo(0)=EdGraphPin'CannonShot_Stereo_Cue:SoundCueGraph_0.SoundCueGraphNode_51.EdGraphPin_12509'
+         End Object
+         SoundNode=SoundNodeWavePlayer'CannonShot_Stereo_Cue:SoundNodeWavePlayer_41'
+         Pins(0)=EdGraphPin'EdGraphPin_12502'
+         NodePosX=-672
+         NodePosY=370
+         NodeGuid=1935EA604B327FB4B5CB5E949EDB5E9A
+      End Object
+      Begin Object Name="SoundCueGraphNode_49"
+         Begin Object Name="EdGraphPin_12503"
+            PinName="Output"
+            Direction=EGPD_Output
+            PinType=(PinCategory="SoundNode")
+            LinkedTo(0)=EdGraphPin'CannonShot_Stereo_Cue:SoundCueGraph_0.SoundCueGraphNode_51.EdGraphPin_12510'
+         End Object
+         SoundNode=SoundNodeWavePlayer'CannonShot_Stereo_Cue:SoundNodeWavePlayer_42'
+         Pins(0)=EdGraphPin'EdGraphPin_12503'
+         NodePosX=-672
+         NodePosY=440
+         NodeGuid=4C1C56E344AE0E555ADDFFB1FA09293D
+      End Object
+      Begin Object Name="SoundCueGraphNode_50"
+         Begin Object Name="EdGraphPin_12504"
+            PinName="Output"
+            Direction=EGPD_Output
+            PinType=(PinCategory="SoundNode")
+            LinkedTo(0)=EdGraphPin'CannonShot_Stereo_Cue:SoundCueGraph_0.SoundCueGraphNode_51.EdGraphPin_12511'
+         End Object
+         SoundNode=SoundNodeWavePlayer'CannonShot_Stereo_Cue:SoundNodeWavePlayer_43'
+         Pins(0)=EdGraphPin'EdGraphPin_12504'
+         NodePosX=-672
+         NodePosY=510
+         NodeGuid=508851E54F3D9DB54E1079986FBC6FBC
+      End Object
+      Begin Object Name="SoundCueGraphNode_51"
+         Begin Object Name="EdGraphPin_12505"
+            PinName="Output"
+            Direction=EGPD_Output
+            PinType=(PinCategory="SoundNode")
+            LinkedTo(0)=EdGraphPin'CannonShot_Stereo_Cue:SoundCueGraph_0.SoundCueGraphNode_53.EdGraphPin_12516'
+         End Object
+         Begin Object Name="EdGraphPin_12506"
+            PinName="Input"
+            PinFriendlyName=" "
+            PinType=(PinCategory="SoundNode")
+            LinkedTo(0)=EdGraphPin'CannonShot_Stereo_Cue:SoundCueGraph_0.SoundCueGraphNode_45.EdGraphPin_12499'
+         End Object
+         Begin Object Name="EdGraphPin_12507"
+            PinName="Input2"
+            PinFriendlyName=" "
+            PinType=(PinCategory="SoundNode")
+            LinkedTo(0)=EdGraphPin'CannonShot_Stereo_Cue:SoundCueGraph_0.SoundCueGraphNode_46.EdGraphPin_12500'
+         End Object
+         Begin Object Name="EdGraphPin_12508"
+            PinName="Input3"
+            PinFriendlyName=" "
+            PinType=(PinCategory="SoundNode")
+            LinkedTo(0)=EdGraphPin'CannonShot_Stereo_Cue:SoundCueGraph_0.SoundCueGraphNode_47.EdGraphPin_12501'
+         End Object
+         Begin Object Name="EdGraphPin_12509"
+            PinName="Input4"
+            PinFriendlyName=" "
+            PinType=(PinCategory="SoundNode")
+            LinkedTo(0)=EdGraphPin'CannonShot_Stereo_Cue:SoundCueGraph_0.SoundCueGraphNode_48.EdGraphPin_12502'
+         End Object
+         Begin Object Name="EdGraphPin_12510"
+            PinName="Input5"
+            PinFriendlyName=" "
+            PinType=(PinCategory="SoundNode")
+            LinkedTo(0)=EdGraphPin'CannonShot_Stereo_Cue:SoundCueGraph_0.SoundCueGraphNode_49.EdGraphPin_12503'
+         End Object
+         Begin Object Name="EdGraphPin_12511"
+            PinName="Input6"
+            PinFriendlyName=" "
+            PinType=(PinCategory="SoundNode")
+            LinkedTo(0)=EdGraphPin'CannonShot_Stereo_Cue:SoundCueGraph_0.SoundCueGraphNode_50.EdGraphPin_12504'
+         End Object
+         SoundNode=SoundNodeRandom'CannonShot_Stereo_Cue:SoundNodeRandom_5'
+         Pins(0)=EdGraphPin'EdGraphPin_12505'
+         Pins(1)=EdGraphPin'EdGraphPin_12506'
+         Pins(2)=EdGraphPin'EdGraphPin_12507'
+         Pins(3)=EdGraphPin'EdGraphPin_12508'
+         Pins(4)=EdGraphPin'EdGraphPin_12509'
+         Pins(5)=EdGraphPin'EdGraphPin_12510'
+         Pins(6)=EdGraphPin'EdGraphPin_12511'
+         NodePosX=-368
+         NodePosY=288
+         NodeGuid=66AA4C9E46EED4ED93013ABDE5E6CAFC
+      End Object
+      Begin Object Name="SoundCueGraphNode_52"
+         Begin Object Name="EdGraphPin_12512"
+            PinName="Output"
+            Direction=EGPD_Output
+            PinType=(PinCategory="SoundNode")
+            LinkedTo(0)=EdGraphPin'CannonShot_Stereo_Cue:SoundCueGraph_0.SoundCueGraphNode_Root_0.EdGraphPin_12398'
+         End Object
+         Begin Object Name="EdGraphPin_12513"
+            PinName="Input"
+            PinFriendlyName=" "
+            PinType=(PinCategory="SoundNode")
+            LinkedTo(0)=EdGraphPin'CannonShot_Stereo_Cue:SoundCueGraph_0.SoundCueGraphNode_1.EdGraphPin_12443'
+         End Object
+         Begin Object Name="EdGraphPin_12514"
+            PinName="Input2"
+            PinFriendlyName=" "
+            PinType=(PinCategory="SoundNode")
+            LinkedTo(0)=EdGraphPin'CannonShot_Stereo_Cue:SoundCueGraph_0.SoundCueGraphNode_8.EdGraphPin_13009'
+         End Object
+         SoundNode=SoundNodeMixer'CannonShot_Stereo_Cue:SoundNodeMixer_0'
+         Pins(0)=EdGraphPin'EdGraphPin_12512'
+         Pins(1)=EdGraphPin'EdGraphPin_12513'
+         Pins(2)=EdGraphPin'EdGraphPin_12514'
+         NodePosX=240
+         NodePosY=80
+         NodeGuid=E81D79F14B5FB591D3BC008AA1EDF206
+      End Object
+      Begin Object Name="SoundCueGraphNode_53"
+         Begin Object Name="EdGraphPin_12515"
+            PinName="Output"
+            Direction=EGPD_Output
+            PinType=(PinCategory="SoundNode")
+            LinkedTo(0)=EdGraphPin'CannonShot_Stereo_Cue:SoundCueGraph_0.SoundCueGraphNode_7.EdGraphPin_12578'
+         End Object
+         Begin Object Name="EdGraphPin_12516"
+            PinName="Input"
+            PinFriendlyName=" "
+            PinType=(PinCategory="SoundNode")
+            LinkedTo(0)=EdGraphPin'CannonShot_Stereo_Cue:SoundCueGraph_0.SoundCueGraphNode_51.EdGraphPin_12505'
+         End Object
+         SoundNode=SoundNodeDelay'CannonShot_Stereo_Cue:SoundNodeDelay_0'
+         Pins(0)=EdGraphPin'EdGraphPin_12515'
+         Pins(1)=EdGraphPin'EdGraphPin_12516'
+         NodePosX=-224
+         NodePosY=288
+         NodeGuid=F135ACF64AF88FE2D62911987DABF9FD
+      End Object
+      Begin Object Name="SoundCueGraphNode_7"
+         Begin Object Name="EdGraphPin_12578"
+            PinName="Input"
+            PinFriendlyName=" "
+            PinType=(PinCategory="SoundNode")
+            LinkedTo(0)=EdGraphPin'CannonShot_Stereo_Cue:SoundCueGraph_0.SoundCueGraphNode_53.EdGraphPin_12515'
+         End Object
+         Begin Object Name="EdGraphPin_12579"
+            PinName="Output"
+            Direction=EGPD_Output
+            PinType=(PinCategory="SoundNode")
+            LinkedTo(0)=EdGraphPin'CannonShot_Stereo_Cue:SoundCueGraph_0.SoundCueGraphNode_8.EdGraphPin_13008'
+         End Object
+         SoundNode=SoundNodeModulator'CannonShot_Stereo_Cue:SoundNodeModulator_2'
+         Pins(0)=EdGraphPin'EdGraphPin_12578'
+         Pins(1)=EdGraphPin'EdGraphPin_12579'
+         NodePosX=-80
+         NodePosY=288
+         NodeGuid=21D65EB648595215B43E28A43EEC049B
+      End Object
+      Begin Object Name="SoundCueGraphNode_8"
+         Begin Object Name="EdGraphPin_13008"
+            PinName="Input"
+            PinFriendlyName=" "
+            PinType=(PinCategory="SoundNode")
+            LinkedTo(0)=EdGraphPin'CannonShot_Stereo_Cue:SoundCueGraph_0.SoundCueGraphNode_7.EdGraphPin_12579'
+         End Object
+         Begin Object Name="EdGraphPin_13009"
+            PinName="Output"
+            Direction=EGPD_Output
+            PinType=(PinCategory="SoundNode")
+            LinkedTo(0)=EdGraphPin'CannonShot_Stereo_Cue:SoundCueGraph_0.SoundCueGraphNode_52.EdGraphPin_12514'
+         End Object
+         SoundNode=SoundNodeAttenuation'CannonShot_Stereo_Cue:SoundNodeAttenuation_2'
+         Pins(0)=EdGraphPin'EdGraphPin_13008'
+         Pins(1)=EdGraphPin'EdGraphPin_13009'
+         NodePosX=64
+         NodePosY=288
+         NodeGuid=B327E96D44F7C054182741AF94B309F7
+      End Object
+      Begin Object Name="SoundCueGraphNode_Root_0"
+         Begin Object Name="EdGraphPin_12398"
+            PinType=(PinCategory="SoundNode",PinSubCategory="Root")
+            LinkedTo(0)=EdGraphPin'CannonShot_Stereo_Cue:SoundCueGraph_0.SoundCueGraphNode_52.EdGraphPin_12512'
+         End Object
+         Pins(0)=EdGraphPin'EdGraphPin_12398'
+         NodePosX=384
+         NodePosY=80
+         NodeGuid=C296F50241DAEAD42151D1AAE1761B03
+      End Object
+      Schema=Class'/Script/UnrealEd.SoundCueGraphSchema'
+      Nodes(0)=SoundCueGraphNode_Root'SoundCueGraphNode_Root_0'
+      Nodes(1)=SoundCueGraphNode'SoundCueGraphNode_14'
+      Nodes(2)=SoundCueGraphNode'SoundCueGraphNode_15'
+      Nodes(3)=SoundCueGraphNode'SoundCueGraphNode_16'
+      Nodes(4)=SoundCueGraphNode'SoundCueGraphNode_17'
+      Nodes(5)=SoundCueGraphNode'SoundCueGraphNode_18'
+      Nodes(6)=SoundCueGraphNode'SoundCueGraphNode_19'
+      Nodes(7)=SoundCueGraphNode'SoundCueGraphNode_20'
+      Nodes(8)=SoundCueGraphNode'SoundCueGraphNode_0'
+      Nodes(9)=SoundCueGraphNode'SoundCueGraphNode_1'
+      Nodes(10)=SoundCueGraphNode'SoundCueGraphNode_45'
+      Nodes(11)=SoundCueGraphNode'SoundCueGraphNode_46'
+      Nodes(12)=SoundCueGraphNode'SoundCueGraphNode_47'
+      Nodes(13)=SoundCueGraphNode'SoundCueGraphNode_48'
+      Nodes(14)=SoundCueGraphNode'SoundCueGraphNode_49'
+      Nodes(15)=SoundCueGraphNode'SoundCueGraphNode_50'
+      Nodes(16)=SoundCueGraphNode'SoundCueGraphNode_51'
+      Nodes(17)=SoundCueGraphNode'SoundCueGraphNode_52'
+      Nodes(18)=SoundCueGraphNode'SoundCueGraphNode_53'
+      Nodes(19)=SoundCueGraphNode'SoundCueGraphNode_7'
+      Nodes(20)=SoundCueGraphNode'SoundCueGraphNode_8'
+      bAllowDeletion=False
+      GraphGuid=7714B64F4EAEE792EA61AC9307A54390
+   End Object
+   Begin Object Name="SoundNodeAttenuation_1"
+      AttenuationOverrides=(bSpatialize=False,bAttenuateWithLPF=True,DistanceAlgorithm=ATTENUATION_Logarithmic,AttenuationShape=Capsule,AttenuationShapeExtents=(X=5000.000000,Y=500.000000,Z=0.000000),FalloffDistance=5000.000000,LPFRadiusMin=1000.000000,LPFRadiusMax=5000.000000)
+      bOverrideAttenuation=True
+      ChildNodes(0)=SoundNodeModulator'CannonShot_Stereo_Cue:SoundNodeModulator_1'
+   End Object
+   Begin Object Name="SoundNodeAttenuation_2"
+      AttenuationOverrides=(bSpatialize=False,bAttenuateWithLPF=True,DistanceAlgorithm=ATTENUATION_Logarithmic,AttenuationShape=Capsule,AttenuationShapeExtents=(X=5000.000000,Y=1000.000000,Z=0.000000),FalloffDistance=5000.000000,LPFRadiusMin=2000.000000,LPFRadiusMax=5000.000000)
+      bOverrideAttenuation=True
+      ChildNodes(0)=SoundNodeModulator'CannonShot_Stereo_Cue:SoundNodeModulator_2'
+   End Object
+   Begin Object Name="SoundNodeDelay_0"
+      DelayMax=0.700000
+      ChildNodes(0)=SoundNodeRandom'CannonShot_Stereo_Cue:SoundNodeRandom_5'
+   End Object
+   Begin Object Name="SoundNodeMixer_0"
+      InputVolume(0)=1.000000
+      InputVolume(1)=0.700000
+      ChildNodes(0)=SoundNodeAttenuation'CannonShot_Stereo_Cue:SoundNodeAttenuation_1'
+      ChildNodes(1)=SoundNodeAttenuation'CannonShot_Stereo_Cue:SoundNodeAttenuation_2'
+   End Object
+   Begin Object Name="SoundNodeModulator_1"
+      PitchMin=1.100000
+      PitchMax=1.300000
+      ChildNodes(0)=SoundNodeRandom'CannonShot_Stereo_Cue:SoundNodeRandom_1'
+   End Object
+   Begin Object Name="SoundNodeModulator_2"
+      PitchMin=0.800000
+      PitchMax=1.000000
+      ChildNodes(0)=SoundNodeDelay'CannonShot_Stereo_Cue:SoundNodeDelay_0'
+   End Object
+   Begin Object Name="SoundNodeRandom_1"
+      Weights(0)=1.000000
+      Weights(1)=1.000000
+      Weights(2)=1.000000
+      Weights(3)=1.000000
+      Weights(4)=1.000000
+      Weights(5)=1.000000
+      PreselectAtLevelLoad=4
+      ChildNodes(0)=SoundNodeWavePlayer'CannonShot_Stereo_Cue:SoundNodeWavePlayer_13'
+      ChildNodes(1)=SoundNodeWavePlayer'CannonShot_Stereo_Cue:SoundNodeWavePlayer_14'
+      ChildNodes(2)=SoundNodeWavePlayer'CannonShot_Stereo_Cue:SoundNodeWavePlayer_15'
+      ChildNodes(3)=SoundNodeWavePlayer'CannonShot_Stereo_Cue:SoundNodeWavePlayer_16'
+      ChildNodes(4)=SoundNodeWavePlayer'CannonShot_Stereo_Cue:SoundNodeWavePlayer_17'
+      ChildNodes(5)=SoundNodeWavePlayer'CannonShot_Stereo_Cue:SoundNodeWavePlayer_18'
+   End Object
+   Begin Object Name="SoundNodeRandom_5"
+      Weights(0)=1.000000
+      Weights(1)=1.000000
+      Weights(2)=1.000000
+      Weights(3)=1.000000
+      Weights(4)=1.000000
+      Weights(5)=1.000000
+      PreselectAtLevelLoad=4
+      ChildNodes(0)=SoundNodeWavePlayer'CannonShot_Stereo_Cue:SoundNodeWavePlayer_38'
+      ChildNodes(1)=SoundNodeWavePlayer'CannonShot_Stereo_Cue:SoundNodeWavePlayer_39'
+      ChildNodes(2)=SoundNodeWavePlayer'CannonShot_Stereo_Cue:SoundNodeWavePlayer_40'
+      ChildNodes(3)=SoundNodeWavePlayer'CannonShot_Stereo_Cue:SoundNodeWavePlayer_41'
+      ChildNodes(4)=SoundNodeWavePlayer'CannonShot_Stereo_Cue:SoundNodeWavePlayer_42'
+      ChildNodes(5)=SoundNodeWavePlayer'CannonShot_Stereo_Cue:SoundNodeWavePlayer_43'
+   End Object
+   Begin Object Name="SoundNodeWavePlayer_13"
+      SoundWave=SoundWave'/Game/Sounds/Weapons/Cannon/CannonShot01_Stereo.CannonShot01_Stereo'
+   End Object
+   Begin Object Name="SoundNodeWavePlayer_14"
+      SoundWave=SoundWave'/Game/Sounds/Weapons/Cannon/CannonShot03_Stereo.CannonShot03_Stereo'
+   End Object
+   Begin Object Name="SoundNodeWavePlayer_15"
+      SoundWave=SoundWave'/Game/Sounds/Weapons/Cannon/CannonShot05_Stereo.CannonShot05_Stereo'
+   End Object
+   Begin Object Name="SoundNodeWavePlayer_16"
+      SoundWave=SoundWave'/Game/Sounds/Weapons/Cannon/CannonShot02_Stereo.CannonShot02_Stereo'
+   End Object
+   Begin Object Name="SoundNodeWavePlayer_17"
+      SoundWave=SoundWave'/Game/Sounds/Weapons/Cannon/CannonShot04_Stereo.CannonShot04_Stereo'
+   End Object
+   Begin Object Name="SoundNodeWavePlayer_18"
+      SoundWave=SoundWave'/Game/Sounds/Weapons/Cannon/CannonShot06_Stereo.CannonShot06_Stereo'
+   End Object
+   Begin Object Name="SoundNodeWavePlayer_38"
+      SoundWave=SoundWave'/Game/Sounds/Weapons/Cannon/CannonFlyby01_Stereo.CannonFlyby01_Stereo'
+   End Object
+   Begin Object Name="SoundNodeWavePlayer_39"
+      SoundWave=SoundWave'/Game/Sounds/Weapons/Cannon/CannonFlyby02_Stereo.CannonFlyby02_Stereo'
+   End Object
+   Begin Object Name="SoundNodeWavePlayer_40"
+      SoundWave=SoundWave'/Game/Sounds/Weapons/Cannon/CannonFlyby03_Stereo.CannonFlyby03_Stereo'
+   End Object
+   Begin Object Name="SoundNodeWavePlayer_41"
+      SoundWave=SoundWave'/Game/Sounds/Weapons/Cannon/CannonFlyby04_Stereo.CannonFlyby04_Stereo'
+   End Object
+   Begin Object Name="SoundNodeWavePlayer_42"
+      SoundWave=SoundWave'/Game/Sounds/Weapons/Cannon/CannonFlyby05_Stereo.CannonFlyby05_Stereo'
+   End Object
+   Begin Object Name="SoundNodeWavePlayer_43"
+      SoundWave=SoundWave'/Game/Sounds/Weapons/Cannon/CannonFlyby06_Stereo.CannonFlyby06_Stereo'
+   End Object
+   FirstNode=SoundNodeMixer'SoundNodeMixer_0'
+   VolumeMultiplier=0.500000
+   PitchMultiplier=0.900000
+   AllNodes(0)=SoundNodeWavePlayer'SoundNodeWavePlayer_13'
+   AllNodes(1)=SoundNodeWavePlayer'SoundNodeWavePlayer_14'
+   AllNodes(2)=SoundNodeWavePlayer'SoundNodeWavePlayer_15'
+   AllNodes(3)=SoundNodeWavePlayer'SoundNodeWavePlayer_16'
+   AllNodes(4)=SoundNodeWavePlayer'SoundNodeWavePlayer_17'
+   AllNodes(5)=SoundNodeWavePlayer'SoundNodeWavePlayer_18'
+   AllNodes(6)=SoundNodeRandom'SoundNodeRandom_1'
+   AllNodes(7)=SoundNodeModulator'SoundNodeModulator_1'
+   AllNodes(8)=SoundNodeAttenuation'SoundNodeAttenuation_1'
+   AllNodes(9)=SoundNodeWavePlayer'SoundNodeWavePlayer_38'
+   AllNodes(10)=SoundNodeWavePlayer'SoundNodeWavePlayer_39'
+   AllNodes(11)=SoundNodeWavePlayer'SoundNodeWavePlayer_40'
+   AllNodes(12)=SoundNodeWavePlayer'SoundNodeWavePlayer_41'
+   AllNodes(13)=SoundNodeWavePlayer'SoundNodeWavePlayer_42'
+   AllNodes(14)=SoundNodeWavePlayer'SoundNodeWavePlayer_43'
+   AllNodes(15)=SoundNodeRandom'SoundNodeRandom_5'
+   AllNodes(16)=SoundNodeMixer'SoundNodeMixer_0'
+   AllNodes(17)=SoundNodeDelay'SoundNodeDelay_0'
+   AllNodes(18)=SoundNodeModulator'SoundNodeModulator_2'
+   AllNodes(19)=SoundNodeAttenuation'SoundNodeAttenuation_2'
+   SoundClassObject=SoundClass'/Game/Sounds/SoundClassesAndMixes/Mechanics.Mechanics'
+   Duration=3.509614
+End Object
