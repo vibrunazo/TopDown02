@@ -1,13 +1,9 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.7",
+	"EngineAssociation": "4.9",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
-		{
-			"Name": "JSONQuery",
-			"Enabled": true
-		},
 		{
 			"Name": "AndroidDeviceProfileSelector",
 			"Enabled": false
